@@ -1,11 +1,13 @@
 <br>
 
 <h1 align="center">
-  Início
+    Selecione seu idioma: **Portugês**, [Russo](), [Alemão](), [Chinês](), [Espanhol](), [Ingês](), 
 <h1 align="center">
 <br>
 
 <br>
+
+
 
 <p align="center">
       <img src="/Imagens Geral/tech.JPG">
