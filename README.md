@@ -7,8 +7,6 @@
 
 <br>
 
-
-
 <p align="center">
       <img src="/Imagens Geral/tech.JPG">
 <p align="center">
@@ -26,26 +24,21 @@
   <a href ="#mortar_board-colaborador">Colaboradores</a>
 </p>
 
-<h1 align="center">
-  Curso de formação em Front-End.
-<h1 align="center">
-<br>
-
 ## :rocket: O Projeto
 
-* Qualificação pra pessoas interessadas em aprender Front-End.
+* Qualificação para desenvolvedor Salesforce.
 <br>
 
 ## :dart: Proposta
 
-* Desenvolvimento e capacitação de alunos novos a pessoas em transição de carreira, com matérias e aprendizados balizados nas necessidades do mercado, e com foco prático para que as pessoas possam executar em qualquer entrevista o que foi apreendido durante o curso, para isso o curso conta com materiais de leitura e desenvolvimento prático de projetos.
+* Desenvolvimento para construção e manipulação de ambientes, personalizando a plataforma do software de Gestão de Relacionamento com o Clientes (CRM), desenvolvida pela Salesforce, ferramenta utilizada para gerenciar e analisar as interações com clientes, antecipar necessidades e desejos, otimizar a rentabilidade e potencializar o aumento das vendas.
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
 ## :bulb: Metodologia Utilizada
 
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+* **Metodologia Ágil:** Aulas síncronas, exercícios, desafios práticos.
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
