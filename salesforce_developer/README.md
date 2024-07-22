@@ -133,7 +133,7 @@
 ## :mortar_board: Colaborador
 
 |Nome|Função|Linkedin|GitHub|
-| -------- |-------- |-------- |-------- |-------- |
+| -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href ="#pushpin-início">Voltar ao início</a>  
