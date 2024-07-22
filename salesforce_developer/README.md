@@ -79,7 +79,7 @@
 
 ## :calendar: As entregas dos Sprints
 
-☑️ SPRINT 1 ([Link da Pasta]()): Concluído :<!--heavy_check_mark-->
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/knowledge_leveling)): :A fazer<!-- Concluído : heavy_check_mark-->
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/renato-wessmer/SENAI-Front-End/tree/main/04%20-%20Versionamento/04a_Atividade_1)): Concluído :heavy_check_mark:
 
