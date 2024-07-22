@@ -52,26 +52,26 @@
 
 ## :hourglass_flowing_sand: Planejamento de Aulas
       
-|Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
-| -------- |-------- |-------- |-------- |-------- | -------- |
-|**-**|Nivelamento|16|4|13/07/2024 | 03/08/2024 |
-|**-**|Inglês instrumental| 16 | 1 | 20/07/2024 | --/--/2024 |
-|**-**|Soft Skills|12|-| --/--/2024 | --/--/2024 |
-|**Desenvolvedor**|Introdução ao Trailhead|1,6|-|27/03/2023|04/04/2023|
-|**Desenvolvedor**|Introdução ao Salesforce|0,4|-|05/04/2023|11/04/2023|
-|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|-|12/04/2023|14/04/2023|
-|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|-|17/04/2023|25/04/2023|
-|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|-|26/04/2023|02/05/2023|
-|**Desenvolvedor**|Desenvolvedor intermediário|15,5|-|03/05/2023|19/05/2023|
-|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|-|22/05/2023|25/05/2023|
-|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|-|26/05/2023|30/05/2023|
-|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|-|31/05/2023|25/07/2023|
-|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|-|26/07/2023|14/09/2023|
-|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|-|15/09/2023|03/10/2023|
-|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|-|15/09/2023|03/10/2023|
-|**Desenvolvedor**|Noções básicas da campanha|0,7|-|15/09/2023|03/10/2023|
-|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|-|15/09/2023|03/10/2023|
-|**Desenvolvedor**|Apex Specialist|12|-|15/09/2023|03/10/2023|
+|Módulo|Unidades Curriculares|Carga horária total (h)|Dias|Início|Término|
+|--------|--------|--------|--------|--------|--------|
+|**-**|Nivelamento|16|4|13/07/2024|03/08/2024|
+|**-**|Inglês instrumental|16|1|20/07/2024|--/--/2024|
+|**-**|Soft Skills|12|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Introdução ao Trailhead|1,6|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Introdução ao Salesforce|0,4|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Desenvolvedor intermediário|15,5|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Noções básicas da campanha|0,7|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|-|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
