@@ -79,27 +79,27 @@
 
 ## :calendar: As entregas dos Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/knowledge_leveling)): :A fazer<!-- Concluído : heavy_check_mark-->
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/renato-wessmer/SENAI-Front-End/tree/main/04%20-%20Versionamento/04a_Atividade_1)): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 3 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 4 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 4 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 5 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 5 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 6 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 6 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 7 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 7 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 8 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 8 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 9 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 9 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 10 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 10 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 11 ([Link da Pasta]()): A fazer 
+☑️ SPRINT 11 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
