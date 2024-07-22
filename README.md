@@ -1,7 +1,7 @@
 <br>
 
-<h1 align="center">
-# Selecione seu idioma: 
+
+Selecione seu idioma: 
 [Português](https://github.com/renato-wessmer/FAT/blob/main/README_Portuguese.md), 
 [Russo](https://github.com/renato-wessmer/FAT/blob/main/README_Russian.md), 
 [Alemão](https://github.com/renato-wessmer/FAT/blob/main/README_German.md), 
@@ -9,7 +9,7 @@
 [Espanhol](https://github.com/renato-wessmer/FAT/blob/main/README_Spanish.md), 
 [Inglês](https://github.com/renato-wessmer/FAT/blob/main/README_English.md)
 
-<h1 align="center">
+
 <br>
 
 <br>
