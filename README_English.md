@@ -1,9 +1,16 @@
 <br>
 
 <h1 align="center">
-    Selecione seu idioma: **Portugês**, [Russo](https://github.com/renato-wessmer/FAT/blob/main/README_Russian.md), [Alemão](https://github.com/renato-wessmer/FAT/blob/main/README_German.md), [Chinês](https://github.com/renato-wessmer/FAT/blob/main/README_Chinese.md), [Espanhol](https://github.com/renato-wessmer/FAT/blob/main/README_Spanish.md), [Ingês](https://github.com/renato-wessmer/FAT/blob/main/README_English.md)
-<h1 align="center">
-<br>
+    Selecione seu idioma: 
+</h1>
+<p align="center">
+    **Inglês**
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/README_Portuguese.md">Português</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/README_Russian.md">Russo</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/README_German.md">Alemão</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/README_Chinese.md">Chinês</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/README_Spanish.md">Espanhol</a>, 
+<p align="center">
 
 <br>
 
