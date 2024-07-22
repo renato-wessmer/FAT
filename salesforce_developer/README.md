@@ -16,12 +16,6 @@
 <br>
 
 <p align="center">
-      <img src="/Imagens Geral/tech.JPG">
-<p align="center">
-
-<hr>
-
-<p align="center">
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
@@ -122,18 +116,16 @@
 
 ## :camera_flash: As Versões Finais dos Projetos
 
-☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui) :heavy_check_mark:
+☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
 
 ## :computer: Tecnologias Utilizadas
 
-* **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript;   
 * **Versionamento:** GIT e GitHub desktop;           
-* **Design:** Illustrator, Photoshop, Corel Draw;
 * **Planejamento:** Project Libre
-* **Comunicação:** Whatsapp.
+* **Comunicação:** Whatsapp e Microsoft Teams.
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>     
