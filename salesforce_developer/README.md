@@ -32,6 +32,8 @@
   <a href ="#mortar_board-colaborador">Colaboradores</a>
 </p>
 
+<br>
+
 ## :rocket: O Projeto
 
 * Qualificação para desenvolvedor Salesforce.
@@ -91,9 +93,9 @@
 
 ☑️ SPRINT 6 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 7 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ SPRINT 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 8 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ SPRINT 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
 ☑️ SPRINT 9 ([Link da Pasta]()): A fazer<!-- Concluído : heavy_check_mark-->
 
