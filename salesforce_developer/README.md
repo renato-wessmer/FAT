@@ -32,7 +32,7 @@
   <a href ="#mortar_board-colaborador">Colaboradores</a>
 </p>
 
-## :rocket: O Projeto
+## O Projeto
 
 * Qualificação para desenvolvedor Salesforce.
 <br>
