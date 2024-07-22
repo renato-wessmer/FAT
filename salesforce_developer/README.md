@@ -56,39 +56,30 @@
 |Módulo|Unidades Curriculares|Carga horária total (h)|Dias|Início|Término|
 |--------|--------|--------|--------|--------|--------|
 |**-**|Nivelamento|16|4|13/07/2024|03/08/2024|
-|**-**|Inglês instrumental|16|1|20/07/2024|--/--/2024|
-|**-**|Soft Skills|12|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Introdução ao Trailhead|1,6|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Introdução ao Salesforce|0,4|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Desenvolvedor intermediário|15,5|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas da campanha|0,7|-|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|-|--/--/2024|--/--/2024|
+|**-**|Inglês instrumental|16|4|20/07/2024|19/10/2024|
+|**-**|Soft Skills|12|3|27/07/2024|26/10/2024|
+|**Desenvolvedor**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|1|10/08/2024|10/08/2024|
+|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Desenvolvedor intermediário|15,5|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Noções básicas da campanha|0,7|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-
-
-
-
-
-
-
-
-
 ## :calendar: As entregas dos Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/SENAI-Front-End/tree/main/02%20-%20Metodologias%20%C3%A1geis/Entrega)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta]()): Concluído :<!--heavy_check_mark-->
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/renato-wessmer/SENAI-Front-End/tree/main/04%20-%20Versionamento/04a_Atividade_1)): Concluído :heavy_check_mark:
 
