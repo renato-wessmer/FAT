@@ -73,48 +73,48 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-## :calendar: As entregas dos Sprints
+## :calendar: As entregas 
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ SPRINT 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
 
-## :camera_flash: As Versões Finais dos Projetos
+## :camera_flash: A Versão Final do Projeto
 
 ☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
 
