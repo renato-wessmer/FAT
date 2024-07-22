@@ -12,9 +12,6 @@
     <a href="https://github.com/renato-wessmer/FAT/blob/main/README_English.md">Inglês</a>
 </p>
 
-
-<br>
-
 <br>
 
 <p align="center">
@@ -48,7 +45,7 @@
 
 ## :bulb: Metodologia Utilizada
 
-* **Metodologia Ágil:** Aulas síncronas, exercícios, desafios práticos.
+* **Metodologia:** Aulas síncronas, exercícios, desafios práticos.
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
@@ -57,22 +54,36 @@
       
 |Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |
-|**-**|Ambientação| 20|4|20/03/2023|26/03/2023|
-|**-**|Aula inaugural|3|-|27/03/2023|27/03/2023|
-|**Básico**|Fundamento da tecnolgia da informação e comunicação|20|7|27/03/2023|04/04/2023|
-|**Introdutório**|Metodologias ágeis|12|4|05/04/2023|11/04/2023|
-|**Básico**|Fundamentos da qualidade e produtividade|8|3|12/04/2023|14/04/2023|
-|**Introdutório**|Versionamento|16|5|17/04/2023|25/04/2023|
-|**Básico**|Saúde e segurança no trabalho|12|4|26/04/2023|02/05/2023|
-|**Introdutório**|Lógica de programação|40|13|03/05/2023|19/05/2023|
-|**Básico**|Fundamentos da indústria 4.0|12|4|22/05/2023|25/05/2023|
-|**Básico**|Sustentabilidade nos processos industriais|8|3|26/05/2023|30/05/2023|
-|**Específico 1**|Codificação para Front-End|78|26|31/05/2023|25/07/2023|
-|**Específico 1**|Framework Front-Ende e com consumo de API|102|34|26/07/2023|14/09/2023|
-|**Específico 1**|Testes de Front-End|40|13|15/09/2023|03/10/2023|
+|**-**|Nivelamento|16|4|13/07/2024 | 03/08/2024 |
+|**-**|Inglês instrumental| 16 | 1 | 20/07/2024 | --/--/2024 |
+|**-**|Soft Skills|12|-| --/--/2024 | --/--/2024 |
+|**Desenvolvedor**|Introdução ao Trailhead|1,6|-|27/03/2023|04/04/2023|
+|**Desenvolvedor**|Introdução ao Salesforce|0,4|-|05/04/2023|11/04/2023|
+|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|-|12/04/2023|14/04/2023|
+|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|-|17/04/2023|25/04/2023|
+|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|-|26/04/2023|02/05/2023|
+|**Desenvolvedor**|Desenvolvedor intermediário|15,5|-|03/05/2023|19/05/2023|
+|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|-|22/05/2023|25/05/2023|
+|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|-|26/05/2023|30/05/2023|
+|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|-|31/05/2023|25/07/2023|
+|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|-|26/07/2023|14/09/2023|
+|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|-|15/09/2023|03/10/2023|
+|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|-|15/09/2023|03/10/2023|
+|**Desenvolvedor**|Noções básicas da campanha|0,7|-|15/09/2023|03/10/2023|
+|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|-|15/09/2023|03/10/2023|
+|**Desenvolvedor**|Apex Specialist|12|-|15/09/2023|03/10/2023|
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
+
+
+
+
+
+
+
+
+
 
 ## :calendar: As entregas dos Sprints
 
