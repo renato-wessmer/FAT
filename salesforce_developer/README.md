@@ -132,11 +132,11 @@
       
 ## :mortar_board: Colaborador
 
-|Nome|Função|Linkedin|GitHub|Avatar|
+|Nome|Função|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |-------- |
-|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens Geral/renato.png" width="50" height="50"/>|
+|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-<h1 align="center"> <img src = "Imagens Geral/senai-logo-2.png" height="90" /></h1>    
+ 
