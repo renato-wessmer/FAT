@@ -53,20 +53,20 @@
 |**-**|Leveling|16|4|13/07/2024|03/08/2024|
 |**-**|Instrumental English|16|4|20/07/2024|19/10/2024|
 |**-**|Soft Skills|12|3|27/07/2024|26/10/2024|
-|**Developer**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
-|**Developer**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
-|**Developer**|Conhecer as práticas ágeis da Salesforce|0,8|1|03/08/2024|03/08/2024|
-|**Developer**|Desenvolvedor de plataforma – Iniciante|13,15|1|10/08/2024|10/08/2024|
-|**Developer**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|1|--/--/2024|--/--/2024|
-|**Developer**|Desenvolvedor intermediário|15,5|1|--/--/2024|--/--/2024|
-|**Developer**|Alternativas do Lightning aos botões JavaScript|1|1|--/--/2024|--/--/2024|
-|**Developer**|Noções básicas dos eventos da plataforma|0,8|1|--/--/2024|--/--/2024|
-|**Developer**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|1|--/--/2024|--/--/2024|
-|**Developer**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|1|--/--/2024|--/--/2024|
+|**Developer**|Get Started with Trailhead|1,6|1|03/08/2024|03/08/2024|
+|**Developer**|Get to Know Salesforce|0,4|1|03/08/2024|03/08/2024|
+|**Developer**|Learn Salesforce Agile Practices|0,8|1|03/08/2024|03/08/2024|
+|**Developer**|Platform Developer Beginner|13,15|1|10/08/2024|10/08/2024|
+|**Developer**|Quick Start: Visual Studio Code for Salesforce Development|0,4|1|--/--/2024|--/--/2024|
+|**Developer**|Developer Intermediate|15,5|1|--/--/2024|--/--/2024|
+|**Developer**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
+|**Developer**|Platform Events Basicsa|0,8|1|--/--/2024|--/--/2024|
+|**Developer**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
+|**Developer**|Set Up Your Lightning Web Components Developer Tools|0,7|1|--/--/2024|--/--/2024|
 |**Developer**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
 |**Developer**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
-|**Developer**|Noções básicas da campanha|0,7|1|--/--/2024|--/--/2024|
-|**Developer**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
+|**Developer**|Campaign Basics|0,7|1|--/--/2024|--/--/2024|
+|**Developer**|Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
 |**Developer**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
