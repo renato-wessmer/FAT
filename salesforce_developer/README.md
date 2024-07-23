@@ -1,11 +1,10 @@
 <br>
 
 <h1 align="center">
-    Selecione seu idioma: 
+    Escolha seu idioma: 
 </h1>
 <p align="center">
     <strong>Português</strong>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Português</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russo</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemão</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chinês</a>, 
@@ -123,8 +122,9 @@
 
 ## :computer: Tecnologias Utilizadas
 
+* **Programas:** Flowgorithm;
 * **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre
+* **Planejamento:** Project Libre;
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
 <a href ="#pushpin-início">Voltar ao início</a>  

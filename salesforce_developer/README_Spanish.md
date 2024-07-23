@@ -123,6 +123,7 @@
 
 ## :computer: Tecnologias Utilizadas
 
+* **Programas:** Flowgorithm;
 * **Versionamento:** GIT e GitHub desktop;           
 * **Planejamento:** Project Libre
 * **Comunicação:** Whatsapp e Microsoft Teams.
