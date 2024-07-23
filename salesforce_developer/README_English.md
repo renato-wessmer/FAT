@@ -74,41 +74,41 @@
 
 ## :calendar: Deliverables 
 
-☑️ Deliverables: 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables: 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverables 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): To Do<!-- Completed : heavy_check_mark-->
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br> 
