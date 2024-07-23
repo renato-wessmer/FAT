@@ -18,7 +18,7 @@
   <a href ="#rocket-proyecto ">Proyecto </a>  •
   <a href ="#dart-propuesta ">Propuesta </a>  •
   <a href ="#bulb-metodo">Método</a>  •
-  <a href ="#hourglass_flowing_sand-planificacion">Planificación</a>  •
+  <a href ="#hourglass_flowing_sand-planificación">Planificación</a>  •
   <a href ="#calendar-as-entregas">Entregas</a>  •
   <a href ="#camera_flash-as-version-final-de-la-entrega">Versión final de la entrega</a>  •
   <a href ="#computer-tecnologías">Tecnologías</a>  •
