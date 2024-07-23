@@ -37,14 +37,14 @@
 
 * Entwicklung zur Erstellung und Manipulation von Umgebungen, Anpassung der Customer Relationship Management (CRM)-Softwareplattform, die von Salesforce entwickelt wurde, ein Tool zur Verwaltung und Analyse von Kundeninteraktionen, zur Antizipation von Bedürfnissen und Wünschen, zur Optimierung der Rentabilität und zur Steigerung des Umsatzwachstums.
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
 ## :bulb: Methode
 
 * **Metodologia:** Synchronunterricht, Übungen, praktische Herausforderungen.
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
 ## :hourglass_flowing_sand: Planung
@@ -70,7 +70,7 @@
 |**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
 ## :calendar: Lieferungen 
@@ -111,14 +111,14 @@
 
 ☑️ Lieferungen 18 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
 ## :camera_flash: Endversion der Lieferung
 
 ☑️ 1 Endversion der Lieferung: [Link](https://): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
 ## :computer: Technologien
@@ -128,7 +128,7 @@
 * **Planejamento:** Project Libre
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>    
       
 ## :mortar_board: Mitarbeiter
@@ -137,7 +137,7 @@
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
-<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<a href="#pushpin-wahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
  
