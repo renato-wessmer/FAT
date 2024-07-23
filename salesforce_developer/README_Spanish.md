@@ -60,7 +60,7 @@
 |**Desenvolvedor**|Inicio rápido: Visual Studio Code para el desarrollo de Salesforce|0,4|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Desarrollador intermedio|15,5|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Set Up Your Lightning Web Components Developer Tools|0,7|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
