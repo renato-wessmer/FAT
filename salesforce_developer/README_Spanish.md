@@ -66,7 +66,7 @@
 |**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Fundamentos de campañas|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href ="#elija-su-idioma">Volver al inicio</a>  
