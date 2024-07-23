@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    Selecione seu idioma: 
+    <a id="pushpin-wahlen-sie-ihre-sprache">Wählen Sie Ihre Sprache</a> 
 </h1>
 <p align="center">
     <strong>Português</strong>, 
@@ -16,38 +16,38 @@
 <br>
 
 <p align="center">
-  <a href ="#rocket-o-projeto">Projeto</a>  •
-  <a href ="#dart-proposta">Proposta</a>  •
-  <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
-  <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
-  <a href ="#calendar-as-entregas-dos-sprints">Entregas</a>  •
-  <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
-  <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
-  <a href ="#mortar_board-colaborador">Colaboradores</a>
+  <a href ="#rocket-projekt">Projekt</a>  •
+  <a href ="#dart-vorschlag">Vorschlag</a>  •
+  <a href ="#bulb-methode">Methode</a>  •
+  <a href ="#hourglass-planung">Planung</a>  •
+  <a href ="#calendar-lieferungen">Lieferungen</a>  •
+  <a href ="#camera_flash-endversion-der-lieferung">Endversion der Lieferung</a>  •
+  <a href ="#computer-technologien">Technologien</a>  •
+  <a href ="#mortar_board-mitarbeiter">Mitarbeiter</a>
 </p>
 
 <br>
 
-## :rocket: O Projeto
+## :rocket: Projekt
 
-* Qualificação para desenvolvedor Salesforce.
+* Qualifikation für Salesforce-Entwickler.
 <br>
 
-## :dart: Proposta
+## :dart: Vorschlag
 
-* Desenvolvimento para construção e manipulação de ambientes, personalizando a plataforma do software de Gestão de Relacionamento com o Clientes (CRM), desenvolvida pela Salesforce, ferramenta utilizada para gerenciar e analisar as interações com clientes, antecipar necessidades e desejos, otimizar a rentabilidade e potencializar o aumento das vendas.
+* Entwicklung zur Erstellung und Manipulation von Umgebungen, Anpassung der Customer Relationship Management (CRM)-Softwareplattform, die von Salesforce entwickelt wurde, ein Tool zur Verwaltung und Analyse von Kundeninteraktionen, zur Antizipation von Bedürfnissen und Wünschen, zur Optimierung der Rentabilität und zur Steigerung des Umsatzwachstums.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
-## :bulb: Metodologia Utilizada
+## :bulb: Methode
 
-* **Metodologia:** Aulas síncronas, exercícios, desafios práticos.
+* **Metodologia:** Synchronunterricht, Übungen, praktische Herausforderungen.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<br>
 
-## :hourglass_flowing_sand: Planejamento de Aulas
+## :hourglass_flowing_sand: Planung
       
 |Módulo|Unidades Curriculares|Carga horária total (h)|Dias|Início|Término|
 |--------|--------|--------|--------|--------|--------|
@@ -70,74 +70,74 @@
 |**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
-## :calendar: As entregas 
+## :calendar: Lieferungen 
 
-☑️ ENTREGA 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 1 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 2 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 3 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 4 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 5 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 10 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 11 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 12 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 13 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 14 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 15 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 16 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 17 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 18 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<br>
 
-## :camera_flash: A Versão Final do Projeto
+## :camera_flash: Endversion der Lieferung
 
-☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ 1 Endversion der Lieferung: [Link](https://): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<br>
 
-## :computer: Tecnologias Utilizadas
+## :computer: Technologien
 
 * **Programas:** Flowgorithm;
 * **Versionamento:** GIT e GitHub desktop;           
 * **Planejamento:** Project Libre
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br>     
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
+<br>    
       
-## :mortar_board: Colaborador
+## :mortar_board: Mitarbeiter
 
 |Nome|Função|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href="#pushpinwahlen-sie-ihre-sprachechoose-your-language">Zurück zum Anfang</a>  
 <br>
 
  
