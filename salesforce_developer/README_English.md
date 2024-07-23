@@ -115,7 +115,7 @@
 
 ## :camera_flash: Final delivery version
 
-☑️ Deliverable: [Link](https://): To Do<!-- Completed : heavy_check_mark-->
+☑️ Final delivery version: [Link](https://): To Do<!-- Completed : heavy_check_mark-->
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
