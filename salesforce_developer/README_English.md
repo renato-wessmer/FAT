@@ -53,69 +53,69 @@
 |**-**|Leveling|16|4|13/07/2024|03/08/2024|
 |**-**|Instrumental English|16|4|20/07/2024|19/10/2024|
 |**-**|Soft Skills|12|3|27/07/2024|26/10/2024|
-|**Desenvolvedor**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|1|10/08/2024|10/08/2024|
-|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Desenvolvedor intermediário|15,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas da campanha|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
+|**Developer**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
+|**Developer**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
+|**Developer**|Conhecer as práticas ágeis da Salesforce|0,8|1|03/08/2024|03/08/2024|
+|**Developer**|Desenvolvedor de plataforma – Iniciante|13,15|1|10/08/2024|10/08/2024|
+|**Developer**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|1|--/--/2024|--/--/2024|
+|**Developer**|Desenvolvedor intermediário|15,5|1|--/--/2024|--/--/2024|
+|**Developer**|Alternativas do Lightning aos botões JavaScript|1|1|--/--/2024|--/--/2024|
+|**Developer**|Noções básicas dos eventos da plataforma|0,8|1|--/--/2024|--/--/2024|
+|**Developer**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|1|--/--/2024|--/--/2024|
+|**Developer**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|1|--/--/2024|--/--/2024|
+|**Developer**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
+|**Developer**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
+|**Developer**|Noções básicas da campanha|0,7|1|--/--/2024|--/--/2024|
+|**Developer**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
+|**Developer**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
 
 ## :calendar: Deliverables 
 
-☑️ Deliverables 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 1 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 2 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 3 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 4 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 5 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 10 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 11 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 12 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 13 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 14 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 15 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 16 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 17 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): To Do<!-- Completed : heavy_check_mark-->
 
-☑️ Deliverables 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable 18 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): To Do<!-- Completed : heavy_check_mark-->
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br> 
 
 ## :camera_flash: Final delivery version
 
-☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): To Do<!-- Completed : heavy_check_mark-->
+☑️ Deliverable: [Link](https://): To Do<!-- Completed : heavy_check_mark-->
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
