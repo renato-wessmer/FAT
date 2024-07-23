@@ -1,143 +1,142 @@
 <br>
 
 <h1 align="center">
-    Selecione seu idioma: 
+  <a id="elija-su-idioma">Elija su idioma</a>
 </h1>
 <p align="center">
-    <strong>Português</strong>, 
+    <strong>Espanhol</strong>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Português</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russo</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemão</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chinês</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Spanish.md">Espanhol</a>, 
     <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Inglês</a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href ="#rocket-o-projeto">Projeto</a>  •
-  <a href ="#dart-proposta">Proposta</a>  •
-  <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
-  <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
-  <a href ="#calendar-as-entregas-dos-sprints">Entregas</a>  •
-  <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
-  <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
-  <a href ="#mortar_board-colaborador">Colaboradores</a>
+  <a href ="#rocket-proyecto ">Proyecto </a>  •
+  <a href ="#dart-propuesta ">Propuesta </a>  •
+  <a href ="#bulb-metodo">Método</a>  •
+  <a href ="#hourglass_flowing_sand-planificacion">Planificación</a>  •
+  <a href ="#calendar-as-entregas">Entregas</a>  •
+  <a href ="#camera_flash-as-version-final-de-la-entrega">Versión final de la entrega</a>  •
+  <a href ="#computer-tecnologías">Tecnologías</a>  •
+  <a href ="#mortar_board-colaboradores">Colaboradores</a>
 </p>
 
 <br>
 
-## :rocket: O Projeto
+## :rocket: Proyecto
 
-* Qualificação para desenvolvedor Salesforce.
+* Calificación para desarrollador de Salesforce.
 <br>
 
-## :dart: Proposta
+## :dart: Propuesta
 
-* Desenvolvimento para construção e manipulação de ambientes, personalizando a plataforma do software de Gestão de Relacionamento com o Clientes (CRM), desenvolvida pela Salesforce, ferramenta utilizada para gerenciar e analisar as interações com clientes, antecipar necessidades e desejos, otimizar a rentabilidade e potencializar o aumento das vendas.
+* Desarrollo para la construcción y manipulación de entornos, personalizando la plataforma de software de Gestión de Relaciones con Clientes (CRM) desarrollada por Salesforce, una herramienta utilizada para gestionar y analizar las interacciones con los clientes, anticipar necesidades y deseos, optimizar la rentabilidad y aumentar las ventas.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>
 
-## :bulb: Metodologia Utilizada
+## :bulb: Método
 
-* **Metodologia:** Aulas síncronas, exercícios, desafios práticos.
+* **Metodologia:** Clases sincrónicas, ejercicios, desafíos prácticos.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
+<a href ="#elija-su-idioma">Volver al inicio</a>  
+<br>
 
-## :hourglass_flowing_sand: Planejamento de Aulas
+## :hourglass_flowing_sand: Planificación
       
-|Módulo|Unidades Curriculares|Carga horária total (h)|Dias|Início|Término|
+|Módulo|Unidades Curriculares|Carga horaria total (h)|Días|Inicio|Fin|
 |--------|--------|--------|--------|--------|--------|
-|**-**|Nivelamento|16|4|13/07/2024|03/08/2024|
-|**-**|Inglês instrumental|16|4|20/07/2024|19/10/2024|
-|**-**|Soft Skills|12|3|27/07/2024|26/10/2024|
-|**Desenvolvedor**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Conhecer as práticas ágeis da Salesforce|0,8|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Desenvolvedor de plataforma – Iniciante|13,15|1|10/08/2024|10/08/2024|
-|**Desenvolvedor**|Início rápido: Visual Studio Code para desenvolvimento do Salesforce|0,4|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Desenvolvedor intermediário|15,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Alternativas do Lightning aos botões JavaScript|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas dos eventos da plataforma|0,8|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Criar um aplicativo de rastreamento de ursos com componentes Web do Lightning|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning|0,7|1|--/--/2024|--/--/2024|
+|**-**|Nivelación|16|4|13/07/2024|03/08/2024|
+|**-**|Inglés instrumental|16|4|20/07/2024|19/10/2024|
+|**-**|Habilidades blandas|12|3|27/07/2024|26/10/2024|
+|**Desenvolvedor**|Primeros pasos con Trailhead|1,6|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Conocer Salesforce|0,4|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Learn Salesforce Agile Practices|0,8|1|03/08/2024|03/08/2024|
+|**Desenvolvedor**|Principiante de desarrollo de plataforma|13,15|1|10/08/2024|10/08/2024|
+|**Desenvolvedor**|Inicio rápido: Visual Studio Code para el desarrollo de Salesforce|0,4|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Desarrollador intermedio|15,5|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Set Up Your Lightning Web Components Developer Tools|0,7|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Noções básicas da campanha|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**|Fundamentos de campañas|0,7|1|--/--/2024|--/--/2024|
+|**Desenvolvedor**Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>
 
-## :calendar: As entregas 
+## :calendar: Entregas 
 
-☑️ ENTREGA 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 2 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 3 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 4 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 5 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 6 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 10 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 11 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 12 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 13 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 14 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 15 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 16 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 17 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): Por hacer<!-- Completado : heavy_check_mark-->
 
-☑️ ENTREGA 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Entrega 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): Por hacer<!-- Completado : heavy_check_mark-->
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#elija-su-idioma">Volver al inicio</a>  
+<br>
+
+## :camera_flash: Versión final de la entrega
+
+☑️ Versión final de la entrega: [Link](https://): Por hacer<!-- Completado : heavy_check_mark-->
+
+<a href ="#elija-su-idioma">Volver al inicio</a>  
 <br> 
 
-## :camera_flash: A Versão Final do Projeto
-
-☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
-
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
-
-## :computer: Tecnologias Utilizadas
+## :computer: Tecnologías
 
 * **Programas:** Flowgorithm;
 * **Versionamento:** GIT e GitHub desktop;           
 * **Planejamento:** Project Libre
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>     
       
-## :mortar_board: Colaborador
+## :mortar_board: Colaboradores
 
-|Nome|Função|Linkedin|GitHub|
+|Nome|Función|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>
 
  
