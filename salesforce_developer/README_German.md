@@ -76,48 +76,48 @@
 
 ## :calendar: Lieferungen 
 
-☑️ Lieferungen 1 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 1 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 2 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 2 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/instrumental_english)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 3 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 3 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/soft_skills)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 4 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 4 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_trailhead)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 5 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 5 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_to_know_salesforce)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 10 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 10 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/lightning_alternatives_to_javascript_buttons)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 11 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 11 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_events_basics)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 12 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 12 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/build_a_bear_tracking_app_with_lightning_web_components)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 13 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 13 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/set_up_your_lightning_web_components_developer_tools)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 14 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 14 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/javascript_skills_for_salesforce_developers)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 15 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 15 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/get_started_with_modern_javascript_development)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 16 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 16 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/campaign_basics)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 17 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 17 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/study_for_the_platform_developer_i_exam)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 18 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Lieferungen 18 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
 <a href="#wahlen-sie-ihre-sprache">Zurück zum Anfang</a>  
 <br>
 
 ## :camera_flash: Endversion der Lieferung
 
-☑️ 1 Endversion der Lieferung: [Link](https://): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ 1 Endversion der Lieferung: [Link](https://): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
 <a href="#wahlen-sie-ihre-sprache">Zurück zum Anfang</a>  
 <br>
@@ -134,7 +134,7 @@
       
 ## :mortar_board: Mitarbeiter
 
-|Nome|Função|Linkedin|GitHub|
+|Nome|Funktion|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
