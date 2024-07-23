@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    Choose your language:
+    <a id="pushpin-choose-your-language">Choose your language section</a>
 </h1>
 <p align="center">
     <strong>English</strong>, 
@@ -36,15 +36,15 @@
 
 * Development for building and manipulating environments, customizing the Customer Relationship Management (CRM) software platform developed by Salesforce, a tool used to manage and analyze customer interactions, anticipate needs and desires, optimize profitability, and boost sales growth.
 
-<a href ="#pushpin-choose-your-language:">Back to the beginning</a>  
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
 
 ## :bulb: Method
 
 * **Metodologia:** Synchronous classes, exercises, practical challenges.
 
-<a href ="#pushpin-choose-your-language:">Back to the beginning</a>  
-<br> 
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
+<br>
 
 ## :hourglass_flowing_sand: Planning
       
@@ -69,7 +69,7 @@
 |**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
-<a href ="#pushpin-início">Back to the beginning</a>  
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
 
 ## :calendar: Deliverables 
@@ -110,15 +110,15 @@
 
 ☑️ Deliverables: 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): To Do<!-- Completed : heavy_check_mark-->
 
-<a href ="#pushpin-início">Back to the beginning</a>  
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br> 
 
 ## :camera_flash: Final delivery version
 
 ☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): To Do<!-- Completed : heavy_check_mark-->
 
-<a href ="#pushpin-início">Back to the beginning</a>  
-<br> 
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
+<br>
 
 ## :computer: Technologies
 
@@ -127,7 +127,7 @@
 * **Planejamento:** Project Libre
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
-<a href ="#pushpin-início">Back to the beginning</a>  
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>     
       
 ## :mortar_board: Collaborators
@@ -136,5 +136,5 @@
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
-<a href ="#pushpin-início">Back to the beginning</a>  
+<a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
