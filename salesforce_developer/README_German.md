@@ -49,10 +49,10 @@
 
 ## :hourglass_flowing_sand: Planung
       
-|Módulo|Unidades Curriculares|Carga horária total (h)|Dias|Início|Término|
+|Modul|Lehrplan-Einheiten|Gesamtarbeitszeit (h)|Tage|Anfang|Ende|
 |--------|--------|--------|--------|--------|--------|
-|**-**|Nivelamento|16|4|13/07/2024|03/08/2024|
-|**-**|Inglês instrumental|16|4|20/07/2024|19/10/2024|
+|**-**|Nivellierung|16|4|13/07/2024|03/08/2024|
+|**-**|Fachenglisch|16|4|20/07/2024|19/10/2024|
 |**-**|Soft Skills|12|3|27/07/2024|26/10/2024|
 |**Desenvolvedor**|Introdução ao Trailhead|1,6|1|03/08/2024|03/08/2024|
 |**Desenvolvedor**|Introdução ao Salesforce|0,4|1|03/08/2024|03/08/2024|
