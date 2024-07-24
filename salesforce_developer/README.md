@@ -122,10 +122,10 @@
 
 ## :computer: Tecnologias
 
-* **Programas:** Flowgorithm;
-* **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre;
-* **Comunicação:** Whatsapp e Microsoft Teams.
+* **Programas:** Flowgorithm
+* **Versionamento:** GIT e GitHub desktop         
+* **Planejamento:** Project Libre
+* **Comunicação:** Whatsapp e Microsoft Teams
 
 <a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br>    
