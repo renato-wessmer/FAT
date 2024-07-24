@@ -115,7 +115,7 @@
 
 ## :camera_flash: A Versão Final do Projeto
 
-☑️ Versão Final do Projeto: [Link](https://): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Versão Final do Projeto: [Link target="_blank"](https://): A fazer<!-- Concluído : heavy_check_mark-->
 
 <a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br> 
