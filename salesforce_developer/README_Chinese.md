@@ -86,9 +86,9 @@
 
 ☑️ ENTREGA 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): 待办<!-- 完成: heavy_check_mark-->
 
-☑️ ENTREGA 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): 待办<!-- 完成: heavy_check_mark-->
+☑️ ENTREGA 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_beginner)): 待办<!-- 完成: heavy_check_mark-->
 
-☑️ ENTREGA 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): 待办<!-- 完成: heavy_check_mark-->
+☑️ ENTREGA 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quick_start_visual_studio_code_for_salesforce_development)): 待办<!-- 完成: heavy_check_mark-->
 
 ☑️ ENTREGA 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): 待办<!-- 完成: heavy_check_mark-->
 
