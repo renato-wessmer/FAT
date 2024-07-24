@@ -4,13 +4,12 @@
     <a id="wahlen-sie-ihre-sprache">Wählen Sie Ihre Sprache</a>
 </h1>
 <p align="center">
-    <strong>Português</strong>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Português</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russo</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemão</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chinês</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Spanish.md">Espanhol</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Inglês</a>
+    <strong>Deutsch</strong>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Portugiesisch</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russisch</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chinesisch</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Spanish.md">Spanisch</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Englisch</a>
 </p>
 
 <br>
@@ -19,7 +18,7 @@
   <a href ="#rocket-projekt">Projekt</a>  •
   <a href ="#dart-vorschlag">Vorschlag</a>  •
   <a href ="#bulb-methode">Methode</a>  •
-  <a href ="#hourglass-planung">Planung</a>  •
+  <a href ="#hourglass_flowing_sand-planung">Planung</a>  •
   <a href ="#calendar-lieferungen">Lieferungen</a>  •
   <a href ="#camera_flash-endversion-der-lieferung">Endversion der Lieferung</a>  •
   <a href ="#computer-technologien">Technologien</a>  •
@@ -124,19 +123,19 @@
 
 ## :computer: Technologien
 
-* **Programas:** Flowgorithm;
-* **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre
-* **Comunicação:** Whatsapp e Microsoft Teams.
+* **Software:** Flowgorithm
+* **Versionierung:** GIT e GitHub desktop        
+* **Planung:** Project Libre
+* **Kommunikation:** Whatsapp e Microsoft Teams
 
 <a href="#wahlen-sie-ihre-sprache">Zurück zum Anfang</a>  
 <br>    
       
 ## :mortar_board: Mitarbeiter
 
-|Nome|Funktion|Linkedin|GitHub|
+|Name|Funktion|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
-|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
+|**Renato Wessner**|Student| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href="#wahlen-sie-ihre-sprache">Zurück zum Anfang</a>  
 <br>
