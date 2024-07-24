@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    Escolha seu idioma: 
+  <a id="escolha-seu-idioma">Escolha seu idioma</a>
 </h1>
 <p align="center">
     <strong>Português</strong>, 
@@ -36,14 +36,14 @@
 
 * Desenvolvimento para construção e manipulação de ambientes, personalizando a plataforma do software de Gestão de Relacionamento com o Clientes (CRM), desenvolvida pela Salesforce, ferramenta utilizada para gerenciar e analisar as interações com clientes, antecipar necessidades e desejos, otimizar a rentabilidade e potencializar o aumento das vendas.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br>
 
 ## :bulb: Metodologia 
 
 * **Metodologia:** Aulas síncronas, exercícios, desafios práticos.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br> 
 
 ## :hourglass_flowing_sand: Planejamento de Aulas
@@ -69,7 +69,7 @@
 |**Desenvolvedor**|Estudar para o Exame de Desenvolvedor de plataforma I|1,15|1|--/--/2024|--/--/2024|
 |**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br>
 
 ## :calendar: Entregas 
@@ -110,14 +110,14 @@
 
 ☑️ ENTREGA 18 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/apex_specialist)): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br> 
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
+<br>
 
 ## :camera_flash: A Versão Final do Projeto
 
 ☑️ Versão Final do Projeto: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br> 
 
 ## :computer: Tecnologias
@@ -127,8 +127,8 @@
 * **Planejamento:** Project Libre;
 * **Comunicação:** Whatsapp e Microsoft Teams.
 
-<a href ="#pushpin-início">Voltar ao início</a>  
-<br>     
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
+<br>    
       
 ## :mortar_board: Colaboradores
 
@@ -136,7 +136,7 @@
 | -------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
-<a href ="#pushpin-início">Voltar ao início</a>  
+<a href ="#escolha-seu-idioma">Voltar ao início</a>  
 <br>
 
  
