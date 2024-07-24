@@ -15,9 +15,9 @@
 <br>
 
 <p align="center">
-  <a href ="#rocket-o-projeto">Projeto</a>  •
+  <a href ="#rocket-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
-  <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
+  <a href ="#bulb-metodologia">Metodologia</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
   <a href ="#calendar-as-entregas-dos-sprints">Entregas</a>  •
   <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
@@ -27,7 +27,7 @@
 
 <br>
 
-## :rocket: O Projeto
+## :rocket: Projeto
 
 * Qualificação para desenvolvedor Salesforce.
 <br>
@@ -39,7 +39,7 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-## :bulb: Metodologia Utilizada
+## :bulb: Metodologia 
 
 * **Metodologia:** Aulas síncronas, exercícios, desafios práticos.
 
