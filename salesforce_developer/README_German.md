@@ -88,9 +88,9 @@
 
 ☑️ Lieferungen 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
+☑️ Lieferungen 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_beginner)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
-☑️ Lieferungen 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
+☑️ Lieferungen 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quick_start_visual_studio_code_for_salesforce_development)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
 ☑️ Lieferungen 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): Zu erledigen <!-- Abgeschlossen : heavy_check_mark-->
 
