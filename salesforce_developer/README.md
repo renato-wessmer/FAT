@@ -19,10 +19,10 @@
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#bulb-metodologia">Metodologia</a>  •
   <a href ="#hourglass-planejamento-de-aulas">Planejamento</a>  •
-  <a href ="#calendar-as-entregas-dos-sprints">Entregas</a>  •
-  <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
-  <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
-  <a href ="#mortar_board-colaborador">Colaboradores</a>
+  <a href ="#calendar-entregas">Entregas</a>  •
+  <a href ="#camera_flash-a-versão-final-do-projeto">Versão Final do Projeto</a>  •
+  <a href ="#computer-tecnologias">Tecnologias</a>  •
+  <a href ="#mortar_board-colaboradores">Colaboradores</a>
 </p>
 
 <br>
@@ -72,7 +72,7 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-## :calendar: As entregas 
+## :calendar: Entregas 
 
 ☑️ ENTREGA 1 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/bases/knowledge_leveling)): A fazer<!-- Concluído : heavy_check_mark-->
 
@@ -115,12 +115,12 @@
 
 ## :camera_flash: A Versão Final do Projeto
 
-☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ Versão Final do Projeto: [colocar endereço do site aqui](colocar endereço do site aqui): A fazer<!-- Concluído : heavy_check_mark-->
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
 
-## :computer: Tecnologias Utilizadas
+## :computer: Tecnologias
 
 * **Programas:** Flowgorithm;
 * **Versionamento:** GIT e GitHub desktop;           
@@ -130,7 +130,7 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>     
       
-## :mortar_board: Colaborador
+## :mortar_board: Colaboradores
 
 |Nome|Função|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
