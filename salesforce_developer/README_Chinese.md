@@ -53,21 +53,21 @@
 |**-**|水平|16|4|13/07/2024|03/08/2024|
 |**-**|实用英语|16|4|20/07/2024|19/10/2024|
 |**-**|软技能|12|3|27/07/2024|26/10/2024|
-|**Desenvolvedor**|Trailhead 入门|1,6|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Salesforce 须知|0,4|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|认识 Salesforce 敏捷开发实践|0,8|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|平台入门级开发人员|13,15|1|10/08/2024|10/08/2024|
-|**Desenvolvedor**|快速入门：适用于 Salesforce 开发的 Visual Studio Code|0,4|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|进阶级开发人员|15,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|设置您的 Lightning Web 组件开发人员工具|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|市场活动基础知识|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|为平台开发人员 I 考试学习|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
+|**开发者**|Trailhead 入门|1,6|1|03/08/2024|03/08/2024|
+|**开发者**|Salesforce 须知|0,4|1|03/08/2024|03/08/2024|
+|**开发者**|认识 Salesforce 敏捷开发实践|0,8|1|03/08/2024|03/08/2024|
+|**开发者**|平台入门级开发人员|13,15|1|10/08/2024|10/08/2024|
+|**开发者**|快速入门：适用于 Salesforce 开发的 Visual Studio Code|0,4|1|--/--/2024|--/--/2024|
+|**开发者**|进阶级开发人员|15,5|1|--/--/2024|--/--/2024|
+|**开发者**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
+|**开发者**|Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
+|**开发者**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
+|**开发者**|设置您的 Lightning Web 组件开发人员工具|0,7|1|--/--/2024|--/--/2024|
+|**开发者**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
+|**开发者**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
+|**开发者**|市场活动基础知识|0,7|1|--/--/2024|--/--/2024|
+|**开发者**|为平台开发人员 I 考试学习|1,15|1|--/--/2024|--/--/2024|
+|**开发者**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href ="#选择您的语言">返回开始</a>  
 <br>
@@ -122,19 +122,19 @@
 
 ## :computer: 技术
 
-* **Programas:** Flowgorithm;
-* **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre
-* **Comunicação:** Whatsapp e Microsoft Teams.
+* **程序:** Flowgorithm;
+* **版本控制:** GIT 和 GitHub 桌面版;
+* **规划:** Project Libre;
+* **通讯:** Whatsapp 和 Microsoft Teams.
 
 <a href ="#选择您的语言">返回开始</a>  
 <br>     
       
 ## :mortar_board: 合作者
 
-|Nome|函数|Linkedin|GitHub|
+|名字|函数|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
-|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
+|**Renato Wessner**|学生|[@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href ="#选择您的语言">返回开始</a>  
 <br>
