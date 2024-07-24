@@ -4,12 +4,12 @@
   <a id="elija-su-idioma">Elija su idioma</a>
 </h1>
 <p align="center">
-    <strong>Espanhol</strong>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Português</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russo</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemão</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chinês</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Inglês</a>
+    <strong>Español</strong>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Portugués</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Ruso</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemán</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Chinese.md">Chino</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Inglés</a>
 </p>
 
 <br>
@@ -53,21 +53,21 @@
 |**-**|Nivelación|16|4|13/07/2024|03/08/2024|
 |**-**|Inglés instrumental|16|4|20/07/2024|19/10/2024|
 |**-**|Habilidades blandas|12|3|27/07/2024|26/10/2024|
-|**Desenvolvedor**|Primeros pasos con Trailhead|1,6|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Conocer Salesforce|0,4|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Learn Salesforce Agile Practices|0,8|1|03/08/2024|03/08/2024|
-|**Desenvolvedor**|Principiante de desarrollo de plataforma|13,15|1|10/08/2024|10/08/2024|
-|**Desenvolvedor**|Inicio rápido: Visual Studio Code para el desarrollo de Salesforce|0,4|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Desarrollador intermedio|15,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Set Up Your Lightning Web Components Developer Tools|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Fundamentos de campañas|0,7|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
-|**Desenvolvedor**|Apex Specialist|12|-|--/--/2024|--/--/2024|
+|**Desarrollador**|Primeros pasos con Trailhead|1,6|1|03/08/2024|03/08/2024|
+|**Desarrollador**|Conocer Salesforce|0,4|1|03/08/2024|03/08/2024|
+|**Desarrollador**|Learn Salesforce Agile Practices|0,8|1|03/08/2024|03/08/2024|
+|**Desarrollador**|Principiante de desarrollo de plataforma|13,15|1|10/08/2024|10/08/2024|
+|**Desarrollador**|Inicio rápido: Visual Studio Code para el desarrollo de Salesforce|0,4|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Desarrollador intermedio|15,5|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Lightning Alternatives to JavaScript Buttons|1|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Platform Events Basics|0,8|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Build a Bear-Tracking App with Lightning Web Components|1,15|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Set Up Your Lightning Web Components Developer Tools|0,7|1|--/--/2024|--/--/2024|
+|**Desarrollador**|JavaScript Skills for Salesforce Developers|1,5|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Get Started with Modern JavaScript Development|1|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Fundamentos de campañas|0,7|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Study for the Platform Developer I Exam|1,15|1|--/--/2024|--/--/2024|
+|**Desarrollador**|Apex Specialist|12|-|--/--/2024|--/--/2024|
 
 <a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>
@@ -122,19 +122,19 @@
 
 ## :computer: Tecnologías
 
-* **Programas:** Flowgorithm;
-* **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre
-* **Comunicação:** Whatsapp e Microsoft Teams.
+* **Software:** Flowgorithm
+* **Control de versiones:** GIT e GitHub desktop           
+* **Planificación:** Project Libre
+* **Comunicación:** Whatsapp e Microsoft Teams
 
 <a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>     
       
 ## :mortar_board: Colaboradores
 
-|Nome|Función|Linkedin|GitHub|
+|Nombre|Función|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
-|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
+|**Renato Wessner**|Estudiante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href ="#elija-su-idioma">Volver al inicio</a>  
 <br>
