@@ -122,10 +122,10 @@
 
 ## :computer: 技术
 
-* **程序:** Flowgorithm;
-* **版本控制:** GIT 和 GitHub 桌面版;
-* **规划:** Project Libre;
-* **通讯:** Whatsapp 和 Microsoft Teams.
+* **程序:** Flowgorithm
+* **版本控制:** GIT 和 GitHub 桌面版
+* **规划:** Project Libre
+* **通讯:** Whatsapp 和 Microsoft Teams
 
 <a href ="#选择您的语言">返回开始</a>  
 <br>     
