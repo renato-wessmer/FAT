@@ -4,12 +4,12 @@
     <a id="选择您的语言"> 选择您的语言</a>
 </h1>
 <p align="center">
-    <strong>Chinês</strong>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">Português</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">Russo</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">Alemão</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Spanish.md">Espanhol</a>, 
-    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">Inglês</a>
+    <strong>中文</strong>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README.md">葡萄牙语</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Russian.md">俄语</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_German.md">德语</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_Spanish.md">西班牙语</a>, 
+    <a href="https://github.com/renato-wessmer/FAT/blob/main/salesforce_developer/README_English.md">英语</a>
 </p>
 
 <br>
