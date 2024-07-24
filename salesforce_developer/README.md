@@ -88,7 +88,7 @@
 
 ☑️ ENTREGA 7 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_beginner)): A fazer<!-- Concluído : heavy_check_mark-->
 
-☑️ ENTREGA 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
+☑️ ENTREGA 8 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quick_start_visual_studio_code_for_salesforce_development)): A fazer<!-- Concluído : heavy_check_mark-->
 
 ☑️ ENTREGA 9 ([Link da Pasta](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): A fazer<!-- Concluído : heavy_check_mark-->
 
