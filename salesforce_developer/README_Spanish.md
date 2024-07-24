@@ -19,8 +19,8 @@
   <a href ="#dart-propuesta ">Propuesta </a>  •
   <a href ="#bulb-método">Método</a>  •
   <a href ="#hourglass_flowing_sand-planificación">Planificación</a>  •
-  <a href ="#calendar-as-entregas">Entregas</a>  •
-  <a href ="#camera_flash-as-versión-final-de-la-entrega">Versión final de la entrega</a>  •
+  <a href ="#calendar-entregas">Entregas</a>  •
+  <a href ="#camera_flash-versión-final-de-la-entrega">Versión final de la entrega</a>  •
   <a href ="#computer-tecnologías">Tecnologías</a>  •
   <a href ="#mortar_board-colaboradores">Colaboradores</a>
 </p>
