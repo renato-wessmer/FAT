@@ -122,10 +122,10 @@
 
 ## :computer: Technologies
 
-* **Programas:** Flowgorithm;
-* **Versionamento:** GIT e GitHub desktop;           
-* **Planejamento:** Project Libre
-* **Comunicação:** Whatsapp e Microsoft Teams.
+* **Software:** Flowgorithm
+* **Version Control:** GIT and GitHub Desktop
+* **Planning:** Project Libre
+* **Communication:** Whatsapp and Microsoft Teams
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>     
@@ -134,7 +134,7 @@
 
 |Name|Function|Linkedin|GitHub|
 | -------- |-------- |-------- |-------- |
-|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
+|**Renato Wessner**|Student| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|
 
 <a href="#pushpin-choose-your-language">Back to the beginning</a>  
 <br>
