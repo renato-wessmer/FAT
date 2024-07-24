@@ -17,7 +17,7 @@
 <p align="center">
   <a href ="#rocket-проект">Проект</a>  •
   <a href ="#dart-предложение">Предложение</a>  •
-  <a href ="#bulb-mетод">Метод</a>  •
+  <a href ="#bulb-метод">Метод</a>  •
   <a href ="#hourglass_flowing_sand-планирование">Планирование</a>  •
   <a href ="#calendar-as-доставки">Доставки</a>  •
   <a href ="#camera_flash-as-kонечная-версия-доставки">Конечная версия доставки</a>  •
