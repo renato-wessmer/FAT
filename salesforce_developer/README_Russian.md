@@ -86,9 +86,9 @@
 
 ☑️ Доставка 6 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/learn_salesforce_agile_practices)): Сделать<!-- Завершено: heavy_check_mark-->
 
-☑️ Доставка 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_-_beginner)): Сделать<!-- Завершено: heavy_check_mark-->
+☑️ Доставка 7 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/platform_developer_beginner)): Сделать<!-- Завершено: heavy_check_mark-->
 
-☑️ Доставка 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quickstart_visual_studio_code_for_salesforce_development)): Сделать<!-- Завершено: heavy_check_mark-->
+☑️ Доставка 8 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/quick_start_visual_studio_code_for_salesforce_development)): Сделать<!-- Завершено: heavy_check_mark-->
 
 ☑️ Доставка 9 ([Link](https://github.com/renato-wessmer/FAT/tree/main/salesforce_developer/salesforce_developer_trails/developer_intermediate)): Сделать<!-- Завершено: heavy_check_mark-->
 
