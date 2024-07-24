@@ -20,9 +20,9 @@
   <a href ="#bulb-метод">Метод</a>  •
   <a href ="#hourglass_flowing_sand-планирование">Планирование</a>  •
   <a href ="#calendar-as-доставки">Доставки</a>  •
-  <a href ="#camera_flash-as-kонечная-версия-доставки">Конечная версия доставки</a>  •
-  <a href ="#computer-tехнологии">Технологии</a>  •
-  <a href ="#mortar_board-cотрудники">Сотрудники</a>
+  <a href ="#camera_flash-as-конечная-версия-доставки">Конечная версия доставки</a>  •
+  <a href ="#computer-технологии">Технологии</a>  •
+  <a href ="#mortar_board-сотрудники">Сотрудники</a>
 </p>
 
 <br>
